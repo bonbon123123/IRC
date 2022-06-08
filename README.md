@@ -16,7 +16,4 @@ IRC-chat
 <image src="/images/IRC_5.PNG">
 
 
-<image src="/images/IRC_6.PNG">
 
- 
-<image src="/images/IRC_7.PNG">
